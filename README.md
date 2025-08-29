@@ -8,6 +8,8 @@
   * Screen Brightness Control
   * Internal Speakers
   * Internal Microphone
+  * HDMI Output
+  * Touchpad & Keyboard
   * AMD Power Gadget
   * And more...
 
